@@ -38,20 +38,33 @@ Client stated that they wanted a solution that was excel based due to their comf
 		- This assist the operations team with deciding where head count needs to be shifted to maintain operational flow.
   - **Trend Analysis:**
 	- <img width="413" height="552" alt="image" src="https://github.com/user-attachments/assets/0cef6bb8-41d3-4658-8665-3ac9df12b341" />
-  		- The left side of the table provides trend analysis into order, unit, and committed dollar amounts.
- 		- Trend analysis assist the operations team with long term and short term labor planning.
-    	- Order trends decide overall facility staffing needs.
-    	- Quantity trends provide function specific analysis allowing the operation to effectively utilize facility staffing into key department groups.
-    	- Dollar Amount committed is more useful for executive reporting to analyze movement of bif dollar value orders and what can be reported to shareholders.
+
+    - The left side of the table provides trend analysis into order, unit, and committed dollar amounts.
+
+    - Trend analysis assist the operations team with long term and short term labor planning.
+
+      - Order trends decide overall facility staffing needs.
+
+      - Quantity trends provide function specific analysis allowing the operation to effectively utilize facility staffing into key department groups.
+
+      - Dollar Amount committed is more useful for executive reporting to analyze movement of bif dollar value orders and what can be reported to shareholders.
 - **Order Status by Process Step:**
   - <img width="517" height="555" alt="image" src="https://github.com/user-attachments/assets/09c9225c-f06a-443a-8e29-4cef696523fe" />
- 	- Right side of the dashboard highlights the current progression of all orders in the opreation and where they are within the process.
-   	- This view is curtial for the operations management team to utilize to ensure each department is staffed correctly to progress orders through the process to meet SLA.
-   		- For Example:
-   		- If the pack out process is showing a lack of work but the picking process step is show casing a lot of work to be done then this would provoke the operations managers to shift their pack out team into 			picking to build up work then shift them back into pack out once enough order volume has been built up to keep them utilized.
+ 	
+	- Right side of the dashboard highlights the current progression of all orders in the opreation and where they are within the process.
+
+    - This view is curtial for the operations management team to utilize to ensure each department is staffed correctly to progress orders through the process to meet SLA.
+
+      - For Example:
+
+      - If the pack out process is showing a lack of work but the picking process step is show casing a lot of work to be done then this would provoke the operations managers to shift their pack out team into 			picking to build up work then shift them back into pack out once enough order volume has been built up to keep them utilized.
+
 - Filters are available on all graphs for the operations management team to review the data in more detail by either date or function specific statuses.
+
 - <img width="518" height="556" alt="image" src="https://github.com/user-attachments/assets/144e72ac-97e0-4fbf-844a-b5f3eb3ad99a" />
+
 - <img width="937" height="642" alt="image" src="https://github.com/user-attachments/assets/307159b5-5bc6-426e-8cbd-54a6ad4c3484" />
+
 - When any of these filters are changed, the graphs will refresh to reflect the change made by the filter. 
 
 
