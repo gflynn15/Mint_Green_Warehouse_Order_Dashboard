@@ -1,5 +1,5 @@
 # Mint_Green_Warehouse_Order_Dashboard
-Operations Order Management Excel Dashboard
+**Operations Order Management Excel Dashboard**
 
 **Client Request**
 Client wanted an excel dashboard that presented their order statuses into a simple and informative dashboard. Project's overall purpose is to decrease the clients time spent extracting the data from SAP and creating multiple pivot tables to analyze their order pool status. 
