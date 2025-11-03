@@ -30,9 +30,12 @@ Client stated that they wanted a solution that was excel based due to their comf
   - <img width="933" height="609" alt="image" src="https://github.com/user-attachments/assets/324119ca-32b3-459a-93ae-5ae123ea67f0" />
   - **Header Bar:**
   - <img width="936" height="57" alt="image" src="https://github.com/user-attachments/assets/2396bc26-3447-438d-a446-b915919ea760" />
-  	- Provides a quick snap shot into order metrics notifying the operations team how many late orders they need to shift their attention to fulfilling.
-  	- Number of orders that need to be picked and packed.
-  		- This assist the operations team with deciding where head count needs to be shifted to maintain operational flow.
+
+    - Provides a quick snap shot into order metrics notifying the operations team how many late orders they need to shift their attention to fulfilling.
+
+    - Number of orders that need to be picked and packed.
+  		
+		- This assist the operations team with deciding where head count needs to be shifted to maintain operational flow.
   - **Trend Analysis:**
 	- <img width="413" height="552" alt="image" src="https://github.com/user-attachments/assets/0cef6bb8-41d3-4658-8665-3ac9df12b341" />
   		- The left side of the table provides trend analysis into order, unit, and committed dollar amounts.
